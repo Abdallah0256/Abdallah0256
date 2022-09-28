@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning C++, Discord.js V14
 - Discord: Abdallah#9790
 - 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HusseinGL&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdallah0256&show_icons=true&theme=radical)
 
 <!---
 Abdallah0256/Abdallah0256 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
