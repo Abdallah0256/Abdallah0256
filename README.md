@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning C++, Discord.js V14
 - Discord: Abdallah#9790
 
-![header](https://capsule-render.vercel.app/api?type=slice&color=0BE18A&height=350&section=header&text=Abdallah%20&fontAlign=60&stroke=00FF00&strokeWidth=1&rotate=+25&fontAlignY=20&desc=CPP%20Beginner&20Developer&descAlignY=30)
+![header](https://capsule-render.vercel.app/api?type=slice&color=0BE18A&height=350&section=header&text=Abdallah%20&fontAlign=60&stroke=00FF00&strokeWidth=1&rotate=+25&fontAlignY=20&desc=CPP%20Beginner%20Developer&20&descAlignY=30)
   
 
 
