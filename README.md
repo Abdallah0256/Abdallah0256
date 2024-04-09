@@ -15,7 +15,6 @@
 
 
 
-[Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Abdallah0256&count_private=true&theme=dark&show_icons=true&include_all_commits=true&show_owner=true)
 
 <!---
 Abdallah0256/Abdallah0256 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
